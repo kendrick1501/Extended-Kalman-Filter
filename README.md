@@ -1,2 +1,2 @@
 # UDACITY Self-Driving Car Nanodegree Program
-## Extended kalman filters - LiDar and Radar sensors fusion
+## Extended Kalman Filters - LiDar and Radar Sensors Fusion
